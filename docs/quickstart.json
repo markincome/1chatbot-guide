@@ -1,5 +1,5 @@
 {
-"title": "快速入門指南",
+"title": "快速入門指南1",
 "stepsMarkdown": "## 建立你的聊天機器人\n\n1. Click 'Create New'\n2. Add sources\n3. Generate embeddings and wait for READY\n\n### Next steps\n- Embed the widget\n- Customize the style",
 "screenshots": [
   { "url": "https://markincome.github.io/1chatbot-guide/img/create.png", "caption": "Create New" },
