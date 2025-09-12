@@ -6,7 +6,7 @@
 "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
 "title": "Quick tour"
 },
-"stepsMarkdown": "## Create your first chatbot\n\n1. Click “Create New”\n2. Add sources\n3. Generate embeddings and wait for READY\n\n### Next
+"stepsMarkdown": "## Create your first chatbot\n\n1. Click "Create New"\n2. Add sources\n3. Generate embeddings and wait for READY\n\n### Next
 steps\n- Embed the widget\n- Customize the style",
 "screenshots": [
 { "url": "https://<user>.github.io/<repo>/img/create.png", "caption": "Create New" },
