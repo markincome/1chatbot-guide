@@ -2,15 +2,15 @@
 "title": "Get Started in 3 Minutes!!",
 "learnMoreUrl": "https://docs.example.com/quickstart",
 "video": {
-"type": "youtube",
-"url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-"title": "Quick tour"
+  "type": "youtube",
+  "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+  "title": "Quick tour"
 },
 "stepsMarkdown": "## Create your first chatbot\n\n1. Click 'Create New'\n2. Add sources\n3. Generate embeddings and wait for READY\n\n### Next
 steps\n- Embed the widget\n- Customize the style",
 "screenshots": [
-{ "url": "https://<user>.github.io/<repo>/img/create.png", "caption": "Create New" },
-{ "url": "https://<user>.github.io/<repo>/img/sources.png", "caption": "Add sources" }
+  { "url": "https://markincome.github.io/1chatbot-guide/img/create.png", "caption": "Create New" },
+  { "url": "https://markincome.github.io/1chatbot-guide/img/sources.png", "caption": "Add sources" }
 ],
 "updatedAt": "2025-09-12T00:00:00Z"
 }
