@@ -1,14 +1,18 @@
 {
 "title": "２分鐘快速入門指南",
-"stepsMarkdown": "### 第一步：建立你的聊天機器人\n\n1. 按下上面的 '建立新聊天機器人' 按鈕\n2. 上傳 PDF 文件\n3. 按下 '建立聊天機器人' 按鈕，並等候訓練完成\n\n### 第二步：試用你的聊天機器人\n\n1. 點選你的專案\n2. 點選左方菜單 '試用您的聊天機器人'\n3. 在訊息框輸入你的問題即可得到回應",
+"steps": [
+{
+"stepsMarkdown": "### 1第一步：建立你的聊天機器人\n\n1. 按下上面的 '建立新聊天機器人' 按鈕\n2. 上傳 PDF 文件\n3. 按下 '建立聊天機器人' 按鈕，並等候訓練完成\n",
 "screenshots": [
-  { "url": "https://markincome.github.io/1chatbot-guide/img/create.png", "caption": "Create New" },
-  { "url": "https://markincome.github.io/1chatbot-guide/img/sources.png", "caption": "Add sources" }
-],
-"stepsMarkdown": "### 第一步：建立你的聊天機器人\n\n1. 按下上面的 '建立新聊天機器人' 按鈕\n2. 上傳 PDF 文件\n3. 按下 '建立聊天機器人' 按鈕，並等候訓練完成\n\n### 第二步：試用你的聊天機器人\n\n1. 點選你的專案\n2. 點選左方菜單 '試用您的聊天機器人'\n3. 在訊息框輸入你的問題即可得到回應",
+{ "url": "https://markincome.github.io/1chatbot-guide/img/sources.png", "caption": "Add sources" }
+]
+},
+{
+"stepsMarkdown": "### 2第二步：試用你的聊天機器人\n\n1. 點選你的專案\n2. 點選左方菜單 '試用您的聊天機器人'\n3. 在訊息框輸入你的問題即可得到回應",
 "screenshots": [
-  { "url": "https://markincome.github.io/1chatbot-guide/img/create.png", "caption": "Create New" },
-  { "url": "https://markincome.github.io/1chatbot-guide/img/sources.png", "caption": "Add sources" }
+{ "url": "https://markincome.github.io/1chatbot-guide/img/create.png", "caption": "Create New" }
+]
+}
 ],
-"updatedAt": "2025-09-12T03:06:00Z"
+"updatedAt": "2025-09-12T02:06:00Z"
 }
