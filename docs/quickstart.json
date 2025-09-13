@@ -2,7 +2,7 @@
 "title": "２分鐘快速入門指南",
 "steps": [
 {
-"stepsMarkdown": "### 第一步：建立你的聊天機器人\n\n1. 按下上面的 '建立新聊天機器人' 按鈕\n2. 上傳 PDF 文件 (https://go.openai.com/rs/504-SWE-347/images/ChatGPT-Team-Guide.pdf)\n3. 按下 '建立聊天機器人' 按鈕，並等候訓練完成\n",
+"stepsMarkdown": "### 第一步：建立你的聊天機器人\n\n1. 按下上面的 '建立新聊天機器人' 按鈕\n2. 上傳 PDF 文件 [OpenAI](https://go.openai.com/rs/504-SWE-347/images/ChatGPT-Team-Guide.pdf)\n3. 按下 '建立聊天機器人' 按鈕，並等候訓練完成\n",
 "screenshots": [
 { "url": "https://markincome.github.io/1chatbot-guide/img/step1_createchatbot.png", "caption": "開始:按下上面的 '建立新聊天機器人' 按鈕" }
 ]
