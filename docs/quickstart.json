@@ -12,7 +12,7 @@
 "stepsMarkdown": "### 第二步：試用你的聊天機器人\n\n1. 訓練完成後，在訊息框輸入問題測試。\n2. 機器人會用上傳 PDF 建立知識庫回答相關問題。\n3. 如果上傳「兒童與新冠疫苗」範例，可問「疫苗接種後常見有哪些副作用？」",
 "screenshots": [
 { "url": "https://markincome.github.io/1chatbot-guide/img/step2b_ask.png", "caption": "點選你的專案名稱" },
-{ "url": "https://markincome.github.io/1chatbot-guide/img/step2_testbot.png", "caption": "輸入文字，試用聊天機器人" }
+{ "url": "https://markincome.github.io/1chatbot-guide/img/step2_testbot.png", "caption": "輸入相關問題，試用機器人" }
 ]
 }
 ],
