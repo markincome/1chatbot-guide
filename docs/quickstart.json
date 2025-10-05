@@ -2,14 +2,14 @@
 "title": "２分鐘快速入門指南",
 "steps": [
 {
-"stepsMarkdown": "### 第一步：建立你的聊天機器人\n\n1. 按下上面的 '建立新聊天機器人' 按鈕\n2. 問答集例子(可以下載PDF)：\n-[兒童和新冠病毒疫苗問答集](https://wcaap.org/wp-content/uploads/2021/11/Parent-FAQ-07.09.2021_TCH_final.pdf)\n3. 上傳 PDF 文件\n4. 按下 '建立聊天機器人' 按鈕，並等候訓練完成\n",
+"stepsMarkdown": "### 第一步：建立聊天機器人\n\n1. 點選「建立新聊天機器人」\n2. 上傳 PDF（可用問答集範例）:\n[兒童和新冠病毒疫苗問答集](https://wcaap.org/wp-content/uploads/2021/11/Parent-FAQ-07.09.2021_TCH_final.pdf)\n3. 按「建立聊天機器人」並等候訓練完成\n",
 "screenshots": [
 { "url": "https://markincome.github.io/1chatbot-guide/img/step1_createchatbot.png", "caption": "找到 '建立新聊天機器人' 按鈕並按下" },
 { "url": "https://markincome.github.io/1chatbot-guide/img/step1b_uploadpdf.png", "caption": "上傳文件建立聊天機器人" }
 ]
 },
 {
-"stepsMarkdown": "### 第二步：試用你的聊天機器人\n\n1. 找到你的專案名稱，並點選專案\n2. 進入專案後，在訊息框輸入你的問題即可得到回應。\n3. **如果你上傳的問答集是「兒童與新冠疫苗」的範例，可以試著丟問題像是：疫苗接種後常見有哪些副作用？**\n4. 聊天機器人會使用上傳的 PDF 建立知識庫並回答提問，提問時請輸入與知識庫相關的內容，聊天機器人並不會回答其他不相關的問題。",
+"stepsMarkdown": "### 第二步：試用你的聊天機器人\n\n1. 訓練完成後，在訊息框輸入問題測試。\n2. 機器人會用上傳 PDF 建立知識庫回答相關問題。\n3. 如果上傳「兒童與新冠疫苗」範例，可問「疫苗接種後常見有哪些副作用？」",
 "screenshots": [
 { "url": "https://markincome.github.io/1chatbot-guide/img/step2b_ask.png", "caption": "點選你的專案名稱" },
 { "url": "https://markincome.github.io/1chatbot-guide/img/step2_testbot.png", "caption": "輸入文字，試用聊天機器人" }
