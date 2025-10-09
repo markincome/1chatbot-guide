@@ -2,7 +2,7 @@
 "title": "２分鐘快速入門指南",
 "steps": [
 {
-"stepsMarkdown": "### 第一步：建立聊天機器人\n\n1. 先下載此問答集範例FAQ:\n[兒童與新冠疫苗問答集](https://wcaap.org/wp-content/uploads/2021/11/Parent-FAQ-07.09.2021_TCH_final.pdf)\n2. 點選「建立新聊天機器人」\n3. 上傳 PDF，再按「建立聊天機器人」等候訓練完成\n",
+"stepsMarkdown": "### 第一步：A建立聊天機器人\n\n1. 先下載此問答集範例FAQ:\n[兒童與新冠疫苗問答集](https://wcaap.org/wp-content/uploads/2021/11/Parent-FAQ-07.09.2021_TCH_final.pdf)\n2. 點選「建立新聊天機器人」\n3. 上傳 PDF，再按「建立聊天機器人」等候訓練完成\n",
 "screenshots": [
 { "url": "https://markincome.github.io/1chatbot-guide/img/sstep-1-2.png", "caption": "下載FAQ範例，點選「建立新聊天機器人」" },
 { "url": "https://markincome.github.io/1chatbot-guide/img/sstep-3-4.png", "caption": "上傳PDF，按「建立聊天機器人」" }
